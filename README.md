@@ -1,5 +1,5 @@
 # A l'eau ciné
-Cheap copycat of a well know website
+Cheap copycat of a well known website
 
 ### Update the .env file
 
