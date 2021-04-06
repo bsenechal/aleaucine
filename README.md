@@ -17,5 +17,5 @@ You will also see any lint errors in the console.
  - Create test suite
  - Add debounce function for the search bar
  - Add loaders when fetching data
- - Override search bar input css to make it lighter
+ - Override search bar input css to make it less dark
 
