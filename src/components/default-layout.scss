@@ -1,0 +1,25 @@
+.default-layout {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+
+  .left-menu {
+    background-color: black;
+  }
+
+  .content-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100;
+    padding: 24px;
+  }
+}
+
+.modal-movie-details {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
